@@ -33,4 +33,5 @@ while True:
     if play_again.lower() != "y":
         break
 
-print("Game Over!") 
+print("Game Over!")
+print("Game Over!")
