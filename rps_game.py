@@ -34,4 +34,3 @@ while True:
         break
 
 print("Game Over!")
-print("Game Over!")
